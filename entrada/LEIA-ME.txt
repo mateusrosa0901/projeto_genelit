@@ -1,0 +1,2 @@
+Coloque aqui o relatorio do Pincel do mes (Gestao > Receita Polo > Geral > Mes/Ano > Gerar Relatorio)
+com o nome relatorioReceitaPolo_convertido.xlsx

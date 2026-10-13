@@ -1,0 +1,8 @@
+pandas>=1.5
+openpyxl>=3.1
+numpy
+lxml
+# versão web (streamlit_app.py)
+streamlit>=1.43
+google-api-python-client>=2.100
+google-auth>=2.20

@@ -1,0 +1,25 @@
+# ---- Dados pessoais / da empresa: NÃO vão para o GitHub ----
+entrada/*
+!entrada/LEIA-ME.txt
+saida/*
+!saida/LEIA-ME.txt
+referencias/**/*.xls*
+dados/PLANILHA GERAL.xlsx
+dados/D_Polos.csv
+dados/D_Excecoes.csv
+dados/D_Parceiros_Ajustes.csv
+~$*
+
+# ---- Streamlit: senha e credenciais do Google Drive ----
+.streamlit/secrets.toml
+
+# ---- PyCharm ----
+.idea
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+.ruff_cache/

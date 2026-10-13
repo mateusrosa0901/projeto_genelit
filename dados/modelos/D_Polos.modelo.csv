@@ -1,0 +1,3 @@
+polo_key,polo_pagamentos,polo_nome,estado,cpf_responsavel,nome_responsavel,status_polo,email
+CIDADE EXEMPLO - MG,Cidade Exemplo - MG,Cidade Exemplo,MG,00000000000,Responsável Exemplo,ATIVO,polo.exemplo@exemplo.com
+OUTRA CIDADE - SP,OUTRA CIDADE - SP,Outra Cidade,SP,,Outro Responsável,DESATIVADO,outra@exemplo.com

@@ -1,0 +1,5 @@
+﻿nome_planilha;apelidos_pincel;cpf_cnpj_extra;data_inicio_parceria;situacao;cpf_cnpj;pf_pj;email;observacao
+FULANO DE TAL;FULANO T. DE TAL|FULANO DE TAL (MEI);;;;;;;Exemplo: outros nomes do parceiro no Pincel
+BELTRANA DA SILVA;;;01/03/2026;;;;;Exemplo: só entram matrículas a partir de 01/03/2026
+CICLANO PARCEIRO NOVO;;;;;00.000.000/0001-00;PJ;contato@exemplo.com;Exemplo: parceiro que ainda não está na PLANILHA GERAL
+PARCEIRO BLOQUEADO;;;;NÃO PAGAR;;;;Exemplo: não recebe neste mês

@@ -1,0 +1,3 @@
+Opcional: coloque aqui as planilhas calculadas a mao DO MES (relatorios de parceiro, PLANILHA GERAL e relatorios de polo).
+Elas nao entram no calculo; servem so para a conferencia (abas Conferencia Parceiros / Conferencia Polos).
+Ao virar o mes, tire as do mes anterior.
